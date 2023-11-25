@@ -1,2 +1,2 @@
 # git-practice
-updated
+updated2
