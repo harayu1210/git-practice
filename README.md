@@ -1,2 +1,2 @@
 # git-practice
-updated no fast branch
+main conflict
