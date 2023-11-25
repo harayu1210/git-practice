@@ -1,2 +1,2 @@
 # git-practice
-updated2
+updated no fast branch
